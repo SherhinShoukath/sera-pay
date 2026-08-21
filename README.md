@@ -1,6 +1,7 @@
 # SeraPay
 
 SeraPay is a stablecoin payment application for merchants who want to create payment links, generate branded QR codes, and track payment activity from a web dashboard.
+**Tech Stack:** React, Vite, Express, TypeScript, and Drizzle ORM.
 
 ## Features
 
